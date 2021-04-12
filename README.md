@@ -61,6 +61,7 @@
 * Trained KNN & Naive Bayes on the datasets.
 * Compared both the Models.
 * Naive Bayes confusion Matrix promised a better accuracy.
+* Confusion Matrix
 
-![](/images/LR.png)
+![](/images/naiv.png)
 
