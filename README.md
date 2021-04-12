@@ -26,4 +26,4 @@ Machine Learning Projects
 * def cost_function(theta,X,Y) returns the error in the prediction. 
 * def derivative_cost_function(theta,X,Y,alpha) finds the derivative.
 * def GradientDescent(X,Y,thetas,cost_function,derivative_cost_function,maxniter=20000) it's the learning algorithm, which keeps on running until 20000 iterations.
-![](https://github.com/saqibijaz/MohammadSaqibIjaz_Portfolio/blob/main/images/LR.png)
+* ![](https://github.com/saqibijaz/MohammadSaqibIjaz_Portfolio/blob/main/images/LR.png)
