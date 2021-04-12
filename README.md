@@ -10,6 +10,7 @@ Machine Learning Projects
 * Select those who are Males and Survivors.
 * select the percentage of Males/Females.
 * Select those who are survivors and has siblings = 2.
+
 # [Project 2: KNN & Linear Regression from Scratch](https://github.com/saqibijaz/KNN-LinearRegressionFrom-Scratch)
 ## K Nearest Neighbours
 * Downloaded the Iris Dataset.
