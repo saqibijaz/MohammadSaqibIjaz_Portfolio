@@ -30,8 +30,8 @@
  
 ![](/images/LR.png)
 
-# [Project 3: Deciscion Tree of Continous Variable from Scratch](https://github.com/saqibijaz/Deciscion-Tree-Continous-Variable)
-## Deciscion Tree Continous Variable
+# [Project 3: Decision Tree of Continous Variable from Scratch](https://github.com/saqibijaz/Deciscion-Tree-Continous-Variable)
+## Decicion Tree Continous Variable
 * A decision Tree for continous Variables.
 * It can have n number of features and it can predict a continous value.
 * Continous Value means that it won't predict a yes or a no, rather it can predict the value, say 0.5
