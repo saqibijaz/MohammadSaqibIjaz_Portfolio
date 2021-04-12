@@ -1,5 +1,4 @@
-# Mohammad Saqib Ijaz [Portfolio]
-Machine Learning Projects
+
 # [Project 1: Data PreProcessing](https://github.com/saqibijaz/Data-Preprocessing-Pandas)
 ## Pandas
 * Used Pandas for performing different task related to Data Preprocessing.
